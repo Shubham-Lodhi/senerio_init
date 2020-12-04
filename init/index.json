@@ -1,17 +1,13 @@
 {
-  "title": "init",
-  "description": "init",
+  "title": "Scenario Creation",
+  "description": "Tutorial about how to create a Katacoda Scenerio",
   "difficulty": "Beginner",
-  "time": "5",
+  "time": "10",
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Create Scenario",
         "text": "step1.md"
-      },
-      {
-        "title": "Step 2",
-        "text": "step2.md"
       }
     ],
     "intro": {
